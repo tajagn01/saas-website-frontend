@@ -52,11 +52,11 @@ export default function HeroSection() {
         {/* Main Headline */}
         <h1
           ref={headlineRef}
-          className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6 max-w-4xl"
+          className="text-3xl sm:text-2xl md:text-6xl lg:text-6xl font-raleway  font-bold leading-tight mb-6 max-w-4xl"
         >
           Transform your Data into
           <br />
-          <span className="bg-gradient-to-r from-orange-500 via-orange-400 to-white font-bold bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-orange-500 via-orange-400 font-raleway to-white font-bold bg-clip-text text-transparent">
             Powerful and Smart Solutions
           </span>
         </h1>
